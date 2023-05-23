@@ -4,7 +4,7 @@
 
 - 💼 I work as an R&D Engineer at the French Geographical Institute (IGN).
 
-- ⚡ I bring AI capabilities to the institute, for the production of a nation-wide Lidar classification.
+- ⚡ I bring AI capabilities to the institute: from dataset creation to nation-wide Lidar classification.
 
 - ❤️ I like python and building well-thought AI systems: machine learning is not all about the model!
 
