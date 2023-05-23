@@ -11,17 +11,17 @@
 - 📫 You can reach out via my [LinkedIn profile](https://www.linkedin.com/in/charlesgaydon/), or ask me anything in Github [here](https://github.com/CharlesGaydon/CharlesGaydon/issues)
 
 
-| <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=CharlesGaydon&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true&count_private=true" alt="CharlesGaydon's github stats" /></a> | <a href="https://github.com/CharlesGaydon/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharlesGaydon&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=CharlesGaydon&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&count_private=true" alt="CharlesGaydon's github stats" /></a> | <a href="https://github.com/CharlesGaydon/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharlesGaydon&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 #### Top Repositories
 
 
 <a href="https://github.com/IGNF/myria3d">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IGNF&repo=myria3d&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IGNF&repo=myria3d&theme=buefy&show_owner=true" />
 </a>
 <a href="https://github.com/IGNF/lidar-prod">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IGNF&repo=lidar-prod&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IGNF&repo=lidar-prod&theme=buefy&show_owner=true" />
 </a>
 
 
