@@ -1,5 +1,4 @@
 ## Hello, I am Charles 👋
-____
 
 **About me**
 
