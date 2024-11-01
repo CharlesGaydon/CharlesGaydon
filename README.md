@@ -2,9 +2,11 @@
 
 #### About me
 
-- 💼 I work as an R&D Engineer at the French Geographical Institute (IGN).
+- 💼 I am an AI engineer with 5+ years of experience in data science.
 
-- ⚡ I bring AI capabilities to the institute: from dataset creation to nation-wide Lidar classification.
+- 🤖 I worked with a large variety of methods such as 3D and 2D computer vision, NLP, bioclinical data clustering, predictive modelling.
+
+- 🌍 I was AI Engineer at the French Mapping Agency (IGN) and built their software and methods to do 3D deep learning: from dataset creation to nation-wide Lidar semantic segmentation.
 
 - ❤️ I like python and building well-thought AI systems: machine learning is not all about the model!
 
